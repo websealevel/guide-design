@@ -57,10 +57,26 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 2. Peaufiner les layouts, mettez y du texte. Pensez aux marges, taille des images. Ne pas hésiter à ajouter des détails
 3. Montrer vos brouillons, 1er jets au client. 
 
-## Layouts
+## Étapes pour développer ses brouillons
+
+## 1. Choisir un layout, une grid
 
 
+- adapter la grid en fonction du format
+- briser la grid de temps en temps (une image un peu off)
+- **longueur de ligne** : minimum 6 mots, max 40 mots. **Viser entre 30 et 40 mots par ligne**
+- **marges** : commencer par fixer une grande marge en bas, appliquer moins de la 1/2 marge du bas sur les marges des coté gauche et droit, 1/2 marge du bas a marge du haut. Par ex, marge du bas 20px, marge des cotés 8px, marge du haut 10px. Comme ça, le contenu n'a pas l'air de tomber dans la page
+- **colonnes et gouttières**: sur du A4 3 colonnes max. **Essayer 7mm pour les gouttières** (espace inter colonnes)
+- **baseline grid** : the baseline is the invisible line upon which most letters “sit”, [voir cet article](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
+- n'utiliser** qu'une ou deux typefaces**
+- placement des images: [rule of thirds](https://designwebkit.com/web-design/rule-of-thirds-web-design/), notre attention est attirée le plus par le premier tiers (en haut à droite) et le dernier tiers a gauche (si on divise notre page en 3 lignes et 3 colonnes égales). Principalement à l'intersection entre la première ligne et la première colonne en partant du haut/gauche (car on lit de gauche à droite, du bas vers le haut). Placer l'item important de l'image à cette intersection, ou le texte important à cet endroit. Si on est sur un truc minimaliste, on peut volontairement y mettre de l'espace négatif (espace entre et autour des éléments où il n'y a pas de composant, pas d'image, pas de texte). L’œil, pour lire une image, scane du haut gauche vers bas gauche puis haut droit vers bas droit. 
+
+## 2. Choisir les font
+
+
+- 
 
 ## Ressources
 
 - Know your onions - Graphic Design (2016), de Drew de Soto, publié par BIS Publishers
+- [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
