@@ -121,11 +121,22 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 - bien comprendre ce que le client veut, trouver une idée qui remplit d'abord cet objectif. Ensuite, il est possible d'aller un peu plus loin (dépasser les attentes dans un second temps)
 - ne jamais arriver avec une proposition qui ne nous plait pas à nous, sinon le client va la prendre, c'est garanti
 - un nombre dans un texte: si inférieur 10 l'écrire en texte, sinon l'écrire en lettres
-  
+
  
+
+## Présentations
+
+- ecran 4/3 ou 16/9 ?
+- tailles de police recommandées: 
+  - titre principal: 44pt
+  - titres : entre 28 et 36pt
+  - texte : 24pt et 28pt
+  - mentions obligatoires pas que personne ne veut lire: 8 a 10pt suffisent
+  
 ## Ressources
 
 - Know your onions - Graphic Design (2016), de Drew de Soto, publié par BIS Publishers
 - [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
 - [Rule of Thirds Web Design: Using Layout Secrets ](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
 - [Readability and Typesetting Basics: Kerning, Tracking, Leading, and More!](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
+- 
