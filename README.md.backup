@@ -71,7 +71,30 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 - **lisibilité** (*readability*) : combinaison de la forme des lettres + arrangement sur la page. Donc *leading* (distance entre 2 baselines), *spacing* (distance horizontale entre 2 caractères), *size* (taille des caractères) and *color* affectent tous la lisibilité
 - **légibilité** (*legibility*) :  clarté d'une lettrine, est ce qu'on discerne un 'Q' d'un 'O' ? 
 - bonne lisibilité :
-	+ faire attention au tracking (esapce entre toutes les lettres d'un mot) et kerning (espace entre 2 caracteres successifs), [voir cet article](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
+	+ faire attention au *tracking* (espace entre *toutes* les lettres d'un mot) et *kerning* (espace entre 2 caractères *successifs*), [voir cet article](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
+	+ ne pas justifier le texte dans une colonne peu large (effet dégueu)
+	+ prendre du temps a regarder la type, si vous avez du mal à lire, les autres aussi
+	+ ne pas mettre le texte tout en majuscules
+- quel font utiliser ?
+	+ est ce que le client a une charte graphique, des styleguides ou des fonts ? Si non, pensez au style du document, à son ton, son contenu,à celles et ceux qui vont le lire. Si magazine, utiliser comba serif et sans serif pour de la variété et de la legibility. Si beaucoup de heading, subheadings, choisir une font avec beaucoup de weight. Si beaucoup de texte, ne pas choisir une font avec un gros x-height, cela prendrait trop de place.
+	+ Classics font qui marchent toujours: Bodoni, Bembo, Caslon, Clarendon, Helvetica, Gill, Univers, Baskerville, Perpetua, Futura, Frutiger
+	
+- headlines: doivent etre gros et court. Masjuscule juste au debut d'un headline (pas tout)
+	
+
+## 3. Texte et alignement de paragraphe
+
+
+## 4. Espacement, espace négatif
+
+## 5. Ponctuation
+
+## 6. Couleurs
+
+## 7. Finitions
+
+
+
 ## *Random tips*
 
 - arrêter de faire des variations sans fin de la même idée. A éviter, perte de temps.
@@ -84,5 +107,5 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 
 - Know your onions - Graphic Design (2016), de Drew de Soto, publié par BIS Publishers
 - [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
-- [rule of thirds](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
+- [Rule of Thirds Web Design: Using Layout Secrets ](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
 - [Readability and Typesetting Basics: Kerning, Tracking, Leading, and More!](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
