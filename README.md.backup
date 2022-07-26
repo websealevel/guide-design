@@ -41,13 +41,6 @@
 12. Épreuve finale
 13. Terminer le travail: demander une preuve écrite que le contrat a été rempli, que le travail répond aux attentes (comme ça si une erreur c'est pas nous responsable)
 
-## Random tips
-
-- arrêter de faire des variations sans fin de la même idée. A éviter, perte de temps.
-- Si on a une idée, on la réalise sur papier. Si ça marche pas, on jette et on en essaie une autre.
-- bien comprendre ce que le client veut, trouver une idée qui remplit d'abord cet objectif. Ensuite, il est possible d'aller un peu plus loin (dépasser les attentes dans un second temps)
-- ne jamais arriver avec une proposition qui ne nous plait pas à nous, sinon le client va la prendre, c'est garanti
-- un nombre dans un texte: si inférieur 10 l'écrire en texte, sinon l'écrire en lettres
 
 ## Designer, c'est parti
 
@@ -62,8 +55,8 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 ## 1. Choisir un layout, une grid
 
 
-- adapter la grid en fonction du format
-- briser la grid de temps en temps (une image un peu off)
+- adapter la grille en fonction du format
+- briser la grille de temps en temps (une image un peu off)
 - **longueur de ligne** : minimum 6 mots, max 40 mots. **Viser entre 30 et 40 mots par ligne**
 - **marges** : commencer par fixer une grande marge en bas, appliquer moins de la 1/2 marge du bas sur les marges des coté gauche et droit, 1/2 marge du bas a marge du haut. Par ex, marge du bas 20px, marge des cotés 8px, marge du haut 10px. Comme ça, le contenu n'a pas l'air de tomber dans la page
 - **colonnes et gouttières**: sur du A4 3 colonnes max. **Essayer 7mm pour les gouttières** (espace inter colonnes)
@@ -73,10 +66,23 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 
 ## 2. Choisir les font
 
+- **serif**: décorations (Roman). Utile pour longs texte, car **lorsqu'on lit de longs textes, on ne lit pas lettre par lettre, on lit les __formes_** car on est habitués à le faire. On "reconnaît les mots". Comme les serifs ajoutent à la forme, on lit plus facilement du texte avec serif.
+- **sans-serif**: (Gothic). 
+- **lisibilité** (*readability*) : combinaison de la forme des lettres + arrangement sur la page. Donc *leading* (distance entre 2 baselines), *spacing* (distance horizontale entre 2 caractères), *size* (taille des caractères) and *color* affectent tous la lisibilité
+- **légibilité** (*legibility*) :  clarté d'une lettrine, est ce qu'on discerne un 'Q' d'un 'O' ? 
+- bonne lisibilité :
+	+ faire attention au tracking (esapce entre toutes les lettres d'un mot) et kerning (espace entre 2 caracteres successifs), [voir cet article](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
+## *Random tips*
 
-
+- arrêter de faire des variations sans fin de la même idée. A éviter, perte de temps.
+- Si on a une idée, on la réalise sur papier. Si ça marche pas, on jette et on en essaie une autre.
+- bien comprendre ce que le client veut, trouver une idée qui remplit d'abord cet objectif. Ensuite, il est possible d'aller un peu plus loin (dépasser les attentes dans un second temps)
+- ne jamais arriver avec une proposition qui ne nous plait pas à nous, sinon le client va la prendre, c'est garanti
+- un nombre dans un texte: si inférieur 10 l'écrire en texte, sinon l'écrire en lettres
 
 ## Ressources
 
 - Know your onions - Graphic Design (2016), de Drew de Soto, publié par BIS Publishers
 - [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
+- [rule of thirds](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
+- [Readability and Typesetting Basics: Kerning, Tracking, Leading, and More!](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
