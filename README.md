@@ -139,4 +139,5 @@ Pour designer vite et efficacement, utiliser un papier et un crayon. Dessiner un
 - [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
 - [Rule of Thirds Web Design: Using Layout Secrets ](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
 - [Readability and Typesetting Basics: Kerning, Tracking, Leading, and More!](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
-- 
+- [Selecting the correct font size](https://www.thinkoutsidetheslide.com/selecting-the-correct-font-size/)
+- [Smallest Font Size for PowerPoint Slides](https://notes.indezine.com/2017/07/smallest-font-size-slides.html)
